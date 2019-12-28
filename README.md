@@ -1,2 +1,3 @@
-# statemachines
-Fiddling with finite state machines
+# Statemachines
+
+Fiddling with finite state machines in JavaScript
